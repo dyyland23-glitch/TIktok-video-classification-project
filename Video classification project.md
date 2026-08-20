@@ -6,3 +6,4 @@ claim or an opinion
 
 
 ![Cover Image](OLS Summary table.png)
+![OLS Summary](OLS%20Summary%20table.png)
