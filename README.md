@@ -39,10 +39,3 @@ This repository contains hands-on data science labs, exploratory analysis, and a
   * **Key Functions**: `sns.boxplot()`, `sns.histplot()`, `sns.heatmap()`
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/dyyland23-glitch/TIktok-video-classification-project](https://github.com/dyyland23-glitch/TIktok-video-classification-project)
-cd TIktok-video-classification-project
